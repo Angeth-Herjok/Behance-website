@@ -1,0 +1,386 @@
+body{
+    background-image: url("/imagesBeh/head.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+li a{
+    text-decoration: none;
+    list-style: none;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+.connect-button{
+   padding: 15px 25px; 
+   background-color: rgb(6, 80, 6);
+   color: #fff5f5;
+}
+.head{
+    display: flex;
+}
+/* .imag1{
+    margin-left: 50%;
+    width: 200%;
+    margin-top: 20px;
+} */
+.ellipsis-icon{
+    color: black;
+}
+.home-bar{
+
+}
+.head-paragraph{
+    color: aliceblue;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.paragraph1{
+    font-size: xx-large;
+
+}
+.paragraph2{
+ font-size: larger;
+}
+.get-start{
+    padding: 18px 35px; 
+    border-radius: 20px;
+    background-color: rgb(25, 219, 25);
+}
+.span-crypto{
+    color: darkturquoise;
+
+}
+.span-secure{
+color: darkcyan;
+}
+.head-footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    margin-top: 10%;
+    padding: 4%;
+    width: 92%;
+    list-style: none;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.hok{
+    font-family: italic;
+}
+img{
+    width: 15%;
+}
+.assets-title{
+    text-transform: uppercase;
+}
+.paragraph3{
+    justify-content: space-between;
+    color: aliceblue;
+    display: flex;
+    margin-top: 10%;
+}
+.BUY{
+    margin-left: 10%;
+    font-size: xx-large;
+}
+.VIEW{
+    margin-right: 10%;
+    color: darkcyan;
+    font-size: larger;
+}
+.ion-logo{
+    font-size: xx-large;
+}
+.home-bar{
+    color: green;
+}
+.ion-icons{
+    color: black;
+    font-size: xx-large;
+}
+.Crypto-assets{
+    color: white;
+    margin-top: 3%;
+    width: 85%;
+    margin-left: 8%;
+    background-color: black;
+}
+.Crypto-assets2{
+    /* display: flex; */
+    justify-content: space-between;
+    background-color: rgb(15, 15, 15);
+    
+}
+li{
+    list-style: none;
+}
+.assets-item{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.assets-item1{
+    display: flex;
+    justify-content: space-between;
+}
+.assets-item2{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(15, 15, 15);
+
+}
+.assets-item3{
+    display: flex;
+    justify-content: space-between;
+}
+.assets-item4{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(36, 35, 35);
+}
+.assets-item5{
+    display: flex;
+    justify-content: space-between;
+}
+.assets-item6{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(26, 24, 24);
+}
+.assets-button1{
+    padding: 2px 45px;
+    border-radius: 25px;
+   background-color: crimson;
+}
+.assets-buttons{
+    padding: 2px 45px;
+    border-radius: 25px;
+
+}
+.Trade{
+    margin-right: 3%;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.text-box{
+    display: flex;
+    color: antiquewhite;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.text-box-button{
+    padding: 20px 35px;
+    border-radius: 10px;
+    background-color: green;
+}
+.paragraph4{
+    font-size: xx-large;
+}
+.paragraph5{
+    background-color: rgb(44, 43, 43);
+    height: 60%;
+}
+.paragraph6{
+    background-color: rgb(44, 43, 43);
+    height: 60%;
+}
+.paragraph7{
+    background-color: rgb(44, 43, 43);
+    height: 60%;
+}
+.paragraph8{
+    background-color: rgb(44, 43, 43);
+    height: 60%;
+}
+.invert{
+    margin-left: 40%;
+    margin-top: 15%;
+
+}
+.ion-invert{
+    border-radius: 40%;
+    margin-left: 25%;
+    margin-top: 15%;
+    background-color: black;
+    padding: 20px 30px;
+}
+.lorem1{
+    display: flex;
+    color: aliceblue;
+    justify-content: space-between;
+    margin-top: 20%;
+    margin-left: 5%;
+}
+.countries{
+    /* background-color: rgb(15, 14, 14);    */
+}
+.country{
+    /* background-color: rgb(15, 15, 15); */
+   
+}
+.invest{
+    color: green;
+}
+.explore-button{
+    color: green;
+    border-color: green;
+    background-color: rgb(5, 4, 4);
+}
+.button3{
+padding: 90px 70px;
+background-color:  palevioletred;
+border-radius: 20px;
+}
+.button4{
+padding: 90px 70px;
+background-color: rgb(114, 114, 250);
+border-radius: 20px;
+}
+.button5{
+    padding: 50px 70px;
+    background-color: rgb(29, 27, 27);
+    color: #fff5f5;
+}
+.platform{
+    font-size: xx-large;
+}
+.nuclear{
+    font-size: xx-large;
+}
+.box1{
+    width: 500px;
+    margin-left: 30%;
+}
+input{
+ display: inline-block;
+ font-size: 15px;
+ box-sizing: border-box;
+}
+.placehold1{
+    background-color: rgb(37, 36, 36);
+    width: 200px;
+    height: 50px;
+    border: none;
+    padding: 0px 35px;
+    outline: none;
+    border-radius: 25px 0px 0px 25px;
+}
+.placehold2{
+    position: relative;
+    left: -25px;
+    border-radius: 25px 25px 25px 25px;
+    width: 120px;
+    height: 50px;
+    background-color: green;
+    border: none;
+    color:black;
+}
+.place{
+    background-color: blue;
+    width: 100%;
+    height: 30vh;
+    border-radius: 25px 25px 25px 0px;
+}
+.explore-button{
+    padding: 20px 35px;
+    border-radius: 10px;
+}
+.body-content{
+    display: flex;
+    color: #fff5f5;
+    justify-content: space-between;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 10%;
+}
+.crypto-portfolio{
+    color: #fff5f5;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+}
+.last-body{
+    color: #fff5f5;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 10%;
+    background-color: #57575e;
+    border-radius: 2%;
+    padding: 2%;
+}
+.last-paragraph1{
+margin-left: 30%;
+font-size: x-large;
+color:green;
+}
+.last-paragraph2{
+    margin-left: 30%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.body-footer{
+    color: #fff5f5;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 10%;
+}
+.last-foot{
+    display: flex;
+    color: #fff5f5;
+    justify-content: space-between;
+    margin-left: 10%;
+    width: 80%;
+    color: darkcyan;
+}
+hr{
+    width: 80%;
+   background-color: darkcyan;
+}
+ion-icon{
+    color: darkcyan;
+}
+.Mobile{
+    color: green;
+}
+.buttonApple{
+    padding: 10px 25px;
+    border-radius: 25px;
+    color: white;
+    background-color: black;
+}
+.Build{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.footer-head{
+    font-size: larger;
+    font-weight: bolder;
+}
+.wallet{
+    margin-top: 6%;
+}
+.imag{
+    margin-left: 20%;
+}
+.clarity{
+    display: flex;
+    margin-left: 20%;
+    height: 60px;
+}
+@media screen and (max-width:768px){
+    
+}
