@@ -401,6 +401,15 @@ ion-icon{
     width: 50px;
  }
  hr{
-    width: 50px;
+    width: 100px;
+ }
+ .body{
+    width: 80%;
+ }
+ nav ul{
+    flex-direction: column;
+ }
+ .connect-button{
+    width: 90px;
  }
 }
