@@ -382,5 +382,25 @@ ion-icon{
     height: 60px;
 }
 @media screen and (max-width:768px){
-    
+ .head-footer{
+ flex-direction: column;
+ } 
+ .text-box{
+    flex-direction: column;
+ }
+ .lorem1{
+    flex-direction: column;
+ }
+ .body-content{
+    flex-direction: column;
+ } 
+ .body-footer{
+    flex-direction: column;
+ } 
+ .box1{
+    width: 50px;
+ }
+ hr{
+    width: 50px;
+ }
 }
